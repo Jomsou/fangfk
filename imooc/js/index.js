@@ -1,5 +1,5 @@
 /**
- * Created by ZhangBing on 2016/6/24 0024.
+ * Created by Jomsou on 2016/6/24 0024.
  */
 $(function () {
     $('.family_list img').each(function (i) {
